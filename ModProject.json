@@ -1,0 +1,13 @@
+{
+  "ProjectName": "CycloneOut",
+  "ModVersion": "0.0.0.0",
+  "CodeDir": ".\\Scripts\\",
+  "EmbeddedResourceDir": ".\\EmbeddedResource\\",
+  "EmbeddedResource": {},
+  "Guid": "0ffe88fb-b62f-4e50-bd28-9f975118eeb5",
+  "DependenciesDir": ".\\Dependencies\\",
+  "ModdingAPIVersion": "1.5.78.11833-68",
+  "IgnoreDlls": [],
+  "WebDependencies": [],
+  "UseGZip": true
+}
